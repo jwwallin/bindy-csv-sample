@@ -1,1 +1,2 @@
-# bindy-csv-sample
+# Bindy CSV marshalling sample
+
